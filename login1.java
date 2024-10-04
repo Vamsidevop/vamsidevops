@@ -1,7 +1,10 @@
 java
 var
 int
-char
+r
 if else
 class
-array
+arra
+add
+dele
+plyy
